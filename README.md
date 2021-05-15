@@ -1,1 +1,2 @@
-# LenguajeMarcas
+# Instrucciones:
+Para visualizar la página web solo debe acceder a https://alvaroglezdaw.github.io/Jardineria-DAW-grupo-1/
